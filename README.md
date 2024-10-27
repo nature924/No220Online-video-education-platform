@@ -1,4 +1,4 @@
-基于Springboot的在线视频教育平台"（程序+论文）
+基于Springboot的在线视频教育平台（程序+论文）
 =
 ### 完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
 ### 作者微信：19941326836  QQ：952045282 
@@ -74,12 +74,13 @@
 ![image/1.png](limage/1.png)
 
 ### 程序截图：
-![image/1.png](image/1.png)
-![image/1.png](image/2.png)
-![image/1.png](image/3.png)
-![image/1.png](image/4.png)
-![image/1.png](image/5.png)
-![image/1.png](image/6.png)
+![image/1.png](image/图片1.png)
+![image/1.png](image/图片2.png)
+![image/1.png](image/图片3.png)
+![image/1.png](image/图片4.png)
+![image/1.png](image/图片5.png)
+![image/1.png](image/图片6.png)
+![image/1.png](image/图片7.png)
 
 
 
